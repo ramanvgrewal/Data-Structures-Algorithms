@@ -1,5 +1,3 @@
-package LeetCode_Hard;
-
 public final class NumberToWords {
     private final String[] below20 = {"", "One", "Two", "Three", "Four", "Five", 
                                            "Six", "Seven", "Eight", "Nine", "Ten", 
